@@ -1,4 +1,4 @@
-# ReactTraining
+# React Training
  An understanding of React's basic components
 
 ***Languages used:***
