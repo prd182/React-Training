@@ -1,7 +1,7 @@
 # ReactTraining
  An understanding of React's basic components
 
-###Languages used:###
+***Languages used:***
  - JavaScript
  - TypeScript
  - HTML
